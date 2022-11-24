@@ -13,10 +13,12 @@ body{
   justify-content: center;
   align-items: center;
 }
-
 h1{
   text-align: center;
   margin-bottom: 1em;
+  border: 10px solid greenyellow;
+  border-radius: 40px;
+  background-color: yellow;
 }
 .container{
   height: 700px;
@@ -26,7 +28,6 @@ h1{
   grid-template-rows: repeat(4, 1fr);
   gap: 1em;
 }
-
 .card{
   background-color: #f5e5bb;
   display: flex;
