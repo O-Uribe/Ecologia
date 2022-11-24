@@ -3,7 +3,7 @@ import Cards from './components/Cards'
 function App() {
   return (
     <div className="App">
-      <h1>Memory Game - React</h1>
+      <h1>Juego de memoria ecológico</h1>
       <Cards />
     </div>
   );

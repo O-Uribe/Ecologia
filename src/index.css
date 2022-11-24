@@ -7,7 +7,8 @@ html, body{
 }
 body{
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  background-color: #fae19d;
+  background-image: url("background.png");
+  background-size: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -27,7 +28,7 @@ h1{
 }
 
 .card{
-  background-color: #fff;
+  background-color: #f5e5bb;
   display: flex;
   justify-content: center;
   align-items: center;
